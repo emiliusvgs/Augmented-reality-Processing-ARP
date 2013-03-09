@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <patterns>
+ 
+  <pat id="0"  name="1.patt"  size="80">    
+  <!-- 3d object atributes-->
+  <state>1</state>
+  <obj>2</obj>
+  <scale>3</scale>
+  <translateX>0</translateX>
+  <translateY>0</translateY>
+  <translateZ>0</translateZ>
+  <rotateX>0</rotateX>
+  <rotateY>0</rotateY>
+  <rotateZ>0</rotateZ>
+  <!-- midi aributes-->
+  </pat>
+  
+  
+   <pat id="1" name="2.patt" size="80">
+  <!-- 3d object atributes-->
+  <state>1</state>
+  <obj>0</obj>
+  <scale>10</scale>
+  <translateX>0</translateX>
+  <translateY>0</translateY>
+  <translateZ>0</translateZ>
+  <rotateX>0</rotateX>
+  <rotateY>0</rotateY>
+  <rotateZ>0</rotateZ>
+  <!-- midi aributes-->
+  </pat>
+    
+  
+   <pat id="2" name="3.patt" size="80">
+    <!-- 3d object atributes-->
+	<state>1</state>
+  <obj>1</obj>
+  <scale>5</scale>
+  <translateX>0</translateX>
+  <translateY>0</translateY>
+  <translateZ>0</translateZ>
+  <rotateX>0</rotateX>
+  <rotateY>0</rotateY>
+  <rotateZ>0</rotateZ>
+  <!-- midi aributes-->
+  </pat>
+   
+ </patterns>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <patterns>
+ 
+  <pat id="0"  name="1.patt"  size="80">    
+  <!-- 3d object atributes-->
+  <state>1</state>
+  <obj>2</obj>
+  <scale>3</scale>
+  <translateX>0</translateX>
+  <translateY>0</translateY>
+  <translateZ>0</translateZ>
+  <rotateX>0</rotateX>
+  <rotateY>0</rotateY>
+  <rotateZ>0</rotateZ>
+  
+   <!-- audio aributes-->
+  <stateA>0</stateA>
+  <audio>1</audio>
+  <volume>50</volume>
+  
+  <!-- midi aributes-->
+  <stateM>0</stateM>
+  <note>3</note>
+  <ocv>3</ocv>
+  <chan>0</chan>
+  <velocity>64</velocity>
+  <ccX>1</ccX>
+  <ccY>2</ccY>
+  
+  <!-- video aributes-->
+  <stateV>0</stateV>
+  <video>0</video>
+  <vScale>1</vScale>
+  <vTranslateX>0</vTranslateX>
+  <vTranslateY>0</vTranslateY>
+  <vRotateX>0</vRotateX>
+  <vRotateY>0</vRotateY> 
+
+  </pat>
+  
+  
+   <pat id="1" name="2.patt" size="80">
+  
+  <!-- 3d object atributes-->
+  <state>1</state>
+  <obj>0</obj>
+  <scale>10</scale>
+  <translateX>0</translateX>
+  <translateY>0</translateY>
+  <translateZ>0</translateZ>
+  <rotateX>0</rotateX>
+  <rotateY>0</rotateY>
+  <rotateZ>0</rotateZ>
+  
+  <!-- audio aributes-->
+  <stateA>0</stateA>
+  <audio>1</audio>
+  <volume>50</volume>
+  
+  <!-- midi aributes-->
+  <stateM>0</stateM>
+  <note>1</note>
+  <ocv>3</ocv>
+  <chan>1</chan>
+  <velocity>64</velocity>
+  <ccX>3</ccX>
+  <ccY>4</ccY>
+  
+  <!-- video aributes-->
+  <stateV>0</stateV>
+  <video>1</video>
+  <vScale>1</vScale>
+  <vTranslateX>0</vTranslateX>
+  <vTranslateY>0</vTranslateY>
+  
+  <vRotateX>0</vRotateX>
+  <vRotateY>0</vRotateY> 
+  
+  </pat>
+    
+  
+   <pat id="2" name="3.patt" size="80">
+  
+  <!-- 3d object atributes-->
+  <state>1</state>
+  <obj>1</obj>
+  <scale>5</scale>
+  <translateX>0</translateX>
+  <translateY>0</translateY>
+  <translateZ>0</translateZ>
+  <rotateX>0</rotateX>
+  <rotateY>0</rotateY>
+  <rotateZ>0</rotateZ>
+  
+  <!-- audio aributes-->
+  <stateA>0</stateA>
+  <audio>1</audio>
+  <volume>50</volume>
+  
+  <!-- midi aributes-->
+  <stateM>0</stateM>
+  <note>2</note>
+  <ocv>3</ocv>
+  <chan>2</chan>
+  <velocity>64</velocity>
+  <ccX>5</ccX>
+  <ccY>6</ccY>
+  
+  <!-- video aributes-->
+  <stateV>0</stateV>
+  <video>1</video>
+  <vScale>1</vScale>
+  <vTranslateX>0</vTranslateX>
+  <vTranslateY>0</vTranslateY>
+  <vRotateX>0</vRotateX>
+  <vRotateY>0</vRotateY>  
+  
+  </pat>
+   
+ </patterns>

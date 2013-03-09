@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <contentLoader>
+ 
+ 
+ 	<3DContentLoader>
+ 
+ 		<!-- 3d object here -->
+  		<obj id="0"  name="pino.3ds"></obj>
+  		<obj id="1"  name="can.3ds"></obj>
+  		<obj id="2"  name="tree02.3ds"></obj>   
+  
+  	</3DContentLoader>
+	
+	
+ 	<videoContentLoader>
+ 	
+		<!-- Video files here -->
+  		<video id="0"  name="station.mov"></video>
+  		<video id="1"  name="qwerty3.mov"></video>
+  		<video id="2"  name="station.mov"></video>
+ 
+ 	</videoContentLoader>
+  
+ 
+ 	<audioContentLoader>
+	
+     	<!-- Audio files here -->
+  		<audio id="0"  name="Ratatat - Loud Pipes.mp3"></audio>
+  		<audio id="1"  name="03 - Spacemen Jam.mp3"></audio>
+  		<audio id="2"  name="03 - Spacemen Jam.mp3"></audio>     
+  
+ 	</audioContentLoader>
+  
+  
+ 	<midiContentLoader>
+	
+ 		<!-- Midi configurations - DO NOT CHANGE -->
+  		<midi id="0"  name="C" pitch="60"></midi>
+  		<midi id="1"  name="C#" pitch="61"></midi>
+  		<midi id="2"  name="D" pitch="62"></midi> 
+		<midi id="3"  name="D#" pitch="63"></midi>
+		<midi id="4"  name="E" pitch="64"></midi>
+  		<midi id="5"  name="F" pitch="65"></midi>
+  		<midi id="6"  name="F#" pitch="66"></midi> 
+		<midi id="7"  name="G#" pitch="67"></midi>
+		<midi id="8"  name="G#" pitch="68"></midi>
+  		<midi id="9"  name="A" pitch="69"></midi>
+  		<midi id="10"  name="A#" pitch="70"></midi> 
+		<midi id="11"  name="B" pitch="71"></midi>     
+
+	</midiContentLoader>
+  
+</contentLoader>
